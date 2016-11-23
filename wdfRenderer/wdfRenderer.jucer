@@ -62,7 +62,8 @@
                extraLinkerFlags="" externalLibraries="armadillo&#10;blas&#10;lapack">
       <CONFIGURATIONS>
         <CONFIGURATION name="Debug" osxSDK="default" osxCompatibility="default" osxArchitecture="default"
-                       isDebug="1" optimisation="1" targetName="wdfRenderer" libraryPath="/usr/local/lib"/>
+                       isDebug="1" optimisation="1" targetName="wdfRenderer" libraryPath="/usr/local/lib"
+                       headerPath="/usr/local/include"/>
         <CONFIGURATION name="Release" osxSDK="default" osxCompatibility="default" osxArchitecture="default"
                        isDebug="0" optimisation="3" targetName="wdfRenderer" libraryPath="/usr/local/lib"
                        headerPath="/usr/local/include"/>
