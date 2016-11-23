@@ -4,3 +4,6 @@
 [submodule "Libs/r8brain-free-src"]
 	path = Libs/r8brain-free-src
 	url = https://github.com/avaneev/r8brain-free-src.git
+[submodule "Libs/rt-wdf_lib"]
+	path = Libs/rt-wdf_lib
+	url = https://github.com/RT-WDF/rt-wdf_lib.git
