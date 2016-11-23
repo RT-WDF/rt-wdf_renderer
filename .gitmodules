@@ -1,0 +1,6 @@
+[submodule "Libs/JUCE"]
+	path = Libs/JUCE
+	url = https://github.com/julianstorer/JUCE.git
+[submodule "Libs/r8brain-free-src"]
+	path = Libs/r8brain-free-src
+	url = https://github.com/avaneev/r8brain-free-src.git
