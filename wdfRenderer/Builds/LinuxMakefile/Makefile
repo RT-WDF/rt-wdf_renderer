@@ -57,10 +57,10 @@ ifeq ($(CONFIG),Release)
 endif
 
 OBJECTS := \
-  $(JUCE_OBJDIR)/rt-wdf_2dfc3d32.o \
-  $(JUCE_OBJDIR)/rt-wdf_nlModels_c116f87f.o \
-  $(JUCE_OBJDIR)/rt-wdf_nlSolvers_f6ef5115.o \
-  $(JUCE_OBJDIR)/r8bbase_d5b76285.o \
+  $(JUCE_OBJDIR)/rt-wdf_8a7baa2c.o \
+  $(JUCE_OBJDIR)/rt-wdf_nlModels_8ee984c5.o \
+  $(JUCE_OBJDIR)/rt-wdf_nlSolvers_e36e4d8f.o \
+  $(JUCE_OBJDIR)/r8bbase_640734e5.o \
   $(JUCE_OBJDIR)/MainComponent_a6ffb4a5.o \
   $(JUCE_OBJDIR)/Main_90ebc5c2.o \
   $(JUCE_OBJDIR)/RenderThread_354ec3c9.o \
@@ -97,22 +97,22 @@ strip:
 	@echo Stripping wdfRenderer
 	-@$(STRIP) --strip-unneeded $(JUCE_OUTDIR)/$(TARGET)
 
-$(JUCE_OBJDIR)/rt-wdf_2dfc3d32.o: ../../../../../Libs/rt-wdf/rt-wdf.cpp
+$(JUCE_OBJDIR)/rt-wdf_8a7baa2c.o: ../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf.cpp
 	-@mkdir -p $(JUCE_OBJDIR)
 	@echo "Compiling rt-wdf.cpp"
 	@$(CXX) $(JUCE_CXXFLAGS) -o "$@" -c "$<"
 
-$(JUCE_OBJDIR)/rt-wdf_nlModels_c116f87f.o: ../../../../../Libs/rt-wdf/rt-wdf_nlModels.cpp
+$(JUCE_OBJDIR)/rt-wdf_nlModels_8ee984c5.o: ../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlModels.cpp
 	-@mkdir -p $(JUCE_OBJDIR)
 	@echo "Compiling rt-wdf_nlModels.cpp"
 	@$(CXX) $(JUCE_CXXFLAGS) -o "$@" -c "$<"
 
-$(JUCE_OBJDIR)/rt-wdf_nlSolvers_f6ef5115.o: ../../../../../Libs/rt-wdf/rt-wdf_nlSolvers.cpp
+$(JUCE_OBJDIR)/rt-wdf_nlSolvers_e36e4d8f.o: ../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlSolvers.cpp
 	-@mkdir -p $(JUCE_OBJDIR)
 	@echo "Compiling rt-wdf_nlSolvers.cpp"
 	@$(CXX) $(JUCE_CXXFLAGS) -o "$@" -c "$<"
 
-$(JUCE_OBJDIR)/r8bbase_d5b76285.o: ../../../../../Libs/r8brain-free-src/r8bbase.cpp
+$(JUCE_OBJDIR)/r8bbase_640734e5.o: ../../../Libs/r8brain-free-src/r8bbase.cpp
 	-@mkdir -p $(JUCE_OBJDIR)
 	@echo "Compiling r8bbase.cpp"
 	@$(CXX) $(JUCE_CXXFLAGS) -o "$@" -c "$<"

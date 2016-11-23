@@ -6,47 +6,47 @@
   <MAINGROUP id="CPGYEk" name="wdfRenderer">
     <GROUP id="{4E95389F-9A73-B786-6941-2AD2921B97D6}" name="Source">
       <GROUP id="{BB262302-E357-1753-CB18-328C64CCB52E}" name="circuits">
-        <FILE id="Qrm7dL" name="wdfCCTAx1Tree.hpp" compile="0" resource="0"
-              file="../../../Examples/wdfCCTAx1Tree.hpp"/>
-        <FILE id="gf0j4e" name="wdfCCTAx4Tree.hpp" compile="0" resource="0"
-              file="../../../Examples/wdfCCTAx4Tree.hpp"/>
-        <FILE id="jvSJyv" name="wdfJTM45Tree.hpp" compile="0" resource="0"
-              file="../../../Examples/wdfJTM45Tree.hpp"/>
-        <FILE id="KRoDNl" name="wdfSwitchTree.hpp" compile="0" resource="0"
-              file="../../../Examples/wdfSwitchTree.hpp"/>
-        <FILE id="SLPVU5" name="wdfTonestackTree.hpp" compile="0" resource="0"
-              file="../../../Examples/wdfTonestackTree.hpp"/>
+        <FILE id="aXtput" name="wdfCCTAx1Tree.hpp" compile="0" resource="0"
+              file="../Circuits/wdfCCTAx1Tree.hpp"/>
+        <FILE id="DLIIU6" name="wdfCCTAx4Tree.hpp" compile="0" resource="0"
+              file="../Circuits/wdfCCTAx4Tree.hpp"/>
+        <FILE id="EThCpk" name="wdfJTM45Tree.hpp" compile="0" resource="0"
+              file="../Circuits/wdfJTM45Tree.hpp"/>
+        <FILE id="gvwkvN" name="wdfSwitchTree.hpp" compile="0" resource="0"
+              file="../Circuits/wdfSwitchTree.hpp"/>
+        <FILE id="v4sCyy" name="wdfTonestackTree.hpp" compile="0" resource="0"
+              file="../Circuits/wdfTonestackTree.hpp"/>
       </GROUP>
       <GROUP id="{D5CD6E95-5C7A-B2CF-6527-0F7EFB46EA5E}" name="Libs">
         <GROUP id="{F4744432-9493-AE32-39FF-9E35743F3405}" name="rt-wdf">
-          <FILE id="YAYBeg" name="rt-wdf.cpp" compile="1" resource="0" file="../../../Libs/rt-wdf/rt-wdf.cpp"/>
-          <FILE id="v8UBll" name="rt-wdf.h" compile="0" resource="0" file="../../../Libs/rt-wdf/rt-wdf.h"/>
-          <FILE id="FsVbdq" name="rt-wdf_nlModels.cpp" compile="1" resource="0"
-                file="../../../Libs/rt-wdf/rt-wdf_nlModels.cpp"/>
-          <FILE id="Di1z3S" name="rt-wdf_nlModels.h" compile="0" resource="0"
-                file="../../../Libs/rt-wdf/rt-wdf_nlModels.h"/>
-          <FILE id="nIeUgT" name="rt-wdf_nlSolvers.cpp" compile="1" resource="0"
-                file="../../../Libs/rt-wdf/rt-wdf_nlSolvers.cpp"/>
-          <FILE id="rsGwfR" name="rt-wdf_nlSolvers.h" compile="0" resource="0"
-                file="../../../Libs/rt-wdf/rt-wdf_nlSolvers.h"/>
-          <FILE id="o3Nqul" name="rt-wdf_types.h" compile="0" resource="0" file="../../../Libs/rt-wdf/rt-wdf_types.h"/>
+          <FILE id="lum01T" name="rt-wdf.cpp" compile="1" resource="0" file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf.cpp"/>
+          <FILE id="rQlfvh" name="rt-wdf.h" compile="0" resource="0" file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf.h"/>
+          <FILE id="OCpW1e" name="rt-wdf_nlModels.cpp" compile="1" resource="0"
+                file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlModels.cpp"/>
+          <FILE id="Ut5drr" name="rt-wdf_nlModels.h" compile="0" resource="0"
+                file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlModels.h"/>
+          <FILE id="KMjaRq" name="rt-wdf_nlSolvers.cpp" compile="1" resource="0"
+                file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlSolvers.cpp"/>
+          <FILE id="g4hNZl" name="rt-wdf_nlSolvers.h" compile="0" resource="0"
+                file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlSolvers.h"/>
+          <FILE id="mFqD3M" name="rt-wdf_types.h" compile="0" resource="0" file="../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_types.h"/>
         </GROUP>
         <GROUP id="{CF55B2CC-8AA6-5D80-552E-BA97092C4D3D}" name="r8brain-free-src">
-          <FILE id="hdSxaQ" name="CDSPBlockConvolver.h" compile="0" resource="0"
-                file="../../../Libs/r8brain-free-src/CDSPBlockConvolver.h"/>
-          <FILE id="HTYwyU" name="CDSPFIRFilter.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/CDSPFIRFilter.h"/>
-          <FILE id="WoZyNE" name="CDSPFracInterpolator.h" compile="0" resource="0"
-                file="../../../Libs/r8brain-free-src/CDSPFracInterpolator.h"/>
-          <FILE id="bHAhp7" name="CDSPProcessor.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/CDSPProcessor.h"/>
-          <FILE id="kkS2Lt" name="CDSPRealFFT.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/CDSPRealFFT.h"/>
-          <FILE id="yCYPC3" name="CDSPResampler.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/CDSPResampler.h"/>
-          <FILE id="m2poNQ" name="CDSPSincFilterGen.h" compile="0" resource="0"
-                file="../../../Libs/r8brain-free-src/CDSPSincFilterGen.h"/>
-          <FILE id="ZVE0Sa" name="fft4g.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/fft4g.h"/>
-          <FILE id="tnkTzI" name="r8bbase.cpp" compile="1" resource="0" file="../../../Libs/r8brain-free-src/r8bbase.cpp"/>
-          <FILE id="vCqwGv" name="r8bbase.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/r8bbase.h"/>
-          <FILE id="HyYJFb" name="r8bconf.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/r8bconf.h"/>
-          <FILE id="DT8dU3" name="r8butil.h" compile="0" resource="0" file="../../../Libs/r8brain-free-src/r8butil.h"/>
+          <FILE id="jnTxJR" name="CDSPBlockConvolver.h" compile="0" resource="0"
+                file="../Libs/r8brain-free-src/CDSPBlockConvolver.h"/>
+          <FILE id="Jjx4KX" name="CDSPFIRFilter.h" compile="0" resource="0" file="../Libs/r8brain-free-src/CDSPFIRFilter.h"/>
+          <FILE id="wJUKwK" name="CDSPFracInterpolator.h" compile="0" resource="0"
+                file="../Libs/r8brain-free-src/CDSPFracInterpolator.h"/>
+          <FILE id="rDxw4T" name="CDSPProcessor.h" compile="0" resource="0" file="../Libs/r8brain-free-src/CDSPProcessor.h"/>
+          <FILE id="EObIVK" name="CDSPRealFFT.h" compile="0" resource="0" file="../Libs/r8brain-free-src/CDSPRealFFT.h"/>
+          <FILE id="HePFsH" name="CDSPResampler.h" compile="0" resource="0" file="../Libs/r8brain-free-src/CDSPResampler.h"/>
+          <FILE id="P8GM2b" name="CDSPSincFilterGen.h" compile="0" resource="0"
+                file="../Libs/r8brain-free-src/CDSPSincFilterGen.h"/>
+          <FILE id="AbaJAA" name="fft4g.h" compile="0" resource="0" file="../Libs/r8brain-free-src/fft4g.h"/>
+          <FILE id="ttAoB5" name="r8bbase.cpp" compile="1" resource="0" file="../Libs/r8brain-free-src/r8bbase.cpp"/>
+          <FILE id="LXTBHI" name="r8bbase.h" compile="0" resource="0" file="../Libs/r8brain-free-src/r8bbase.h"/>
+          <FILE id="vMAUHu" name="r8bconf.h" compile="0" resource="0" file="../Libs/r8brain-free-src/r8bconf.h"/>
+          <FILE id="NMZ8yI" name="r8butil.h" compile="0" resource="0" file="../Libs/r8brain-free-src/r8butil.h"/>
         </GROUP>
       </GROUP>
       <FILE id="xOOD0l" name="MainComponent.cpp" compile="1" resource="0"
@@ -62,9 +62,10 @@
                extraLinkerFlags="" externalLibraries="armadillo&#10;blas&#10;lapack">
       <CONFIGURATIONS>
         <CONFIGURATION name="Debug" osxSDK="default" osxCompatibility="default" osxArchitecture="default"
-                       isDebug="1" optimisation="1" targetName="wdfRenderer" libraryPath=""/>
+                       isDebug="1" optimisation="1" targetName="wdfRenderer" libraryPath="/usr/local/lib"/>
         <CONFIGURATION name="Release" osxSDK="default" osxCompatibility="default" osxArchitecture="default"
-                       isDebug="0" optimisation="3" targetName="wdfRenderer" libraryPath=""/>
+                       isDebug="0" optimisation="3" targetName="wdfRenderer" libraryPath="/usr/local/lib"
+                       headerPath="/usr/local/include"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
         <MODULEPATH id="juce_core" path="../Libs/JUCE/modules"/>

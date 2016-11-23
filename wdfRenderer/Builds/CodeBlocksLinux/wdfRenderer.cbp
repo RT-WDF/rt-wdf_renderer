@@ -81,87 +81,87 @@
       <Add library="blas"/>
       <Add library="lapack"/>
     </Linker>
-    <Unit filename="../../../../../Examples/wdfCCTAx1Tree.hpp">
+    <Unit filename="../../../Circuits/wdfCCTAx1Tree.hpp">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Examples/wdfCCTAx4Tree.hpp">
+    <Unit filename="../../../Circuits/wdfCCTAx4Tree.hpp">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Examples/wdfJTM45Tree.hpp">
+    <Unit filename="../../../Circuits/wdfJTM45Tree.hpp">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Examples/wdfSwitchTree.hpp">
+    <Unit filename="../../../Circuits/wdfSwitchTree.hpp">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Examples/wdfTonestackTree.hpp">
+    <Unit filename="../../../Circuits/wdfTonestackTree.hpp">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf.cpp"/>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf.h">
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf.cpp"/>
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf_nlModels.cpp"/>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf_nlModels.h">
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlModels.cpp"/>
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlModels.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf_nlSolvers.cpp"/>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf_nlSolvers.h">
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlSolvers.cpp"/>
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_nlSolvers.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/rt-wdf/rt-wdf_types.h">
+    <Unit filename="../../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf_types.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPBlockConvolver.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPBlockConvolver.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPFIRFilter.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPFIRFilter.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPFracInterpolator.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPFracInterpolator.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPProcessor.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPProcessor.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPRealFFT.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPRealFFT.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPResampler.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPResampler.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/CDSPSincFilterGen.h">
+    <Unit filename="../../../Libs/r8brain-free-src/CDSPSincFilterGen.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/fft4g.h">
+    <Unit filename="../../../Libs/r8brain-free-src/fft4g.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/r8bbase.cpp"/>
-    <Unit filename="../../../../../Libs/r8brain-free-src/r8bbase.h">
+    <Unit filename="../../../Libs/r8brain-free-src/r8bbase.cpp"/>
+    <Unit filename="../../../Libs/r8brain-free-src/r8bbase.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/r8bconf.h">
+    <Unit filename="../../../Libs/r8brain-free-src/r8bconf.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>
-    <Unit filename="../../../../../Libs/r8brain-free-src/r8butil.h">
+    <Unit filename="../../../Libs/r8brain-free-src/r8butil.h">
       <Option compile="0"/>
       <Option link="0"/>
     </Unit>

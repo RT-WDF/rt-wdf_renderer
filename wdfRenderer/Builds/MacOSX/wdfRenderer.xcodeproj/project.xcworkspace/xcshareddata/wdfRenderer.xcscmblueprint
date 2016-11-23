@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DEBAC9C6799FD4E8074B3BAF720718E3C3499FA0" : 0,
+    "F73CE94197D7FDA6E4D0E752B0D155719785F90F" : 0,
+    "27B75C404D44E89B79FBA67FDA5A5406E63A8EEA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "42BAB23B-E298-4CAB-9B31-D0E6E1FB845A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DEBAC9C6799FD4E8074B3BAF720718E3C3499FA0" : "rt-wdf_renderer\/Libs\/JUCE\/",
+    "F73CE94197D7FDA6E4D0E752B0D155719785F90F" : "rt-wdf_renderer\/Libs\/r8brain-free-src\/",
+    "27B75C404D44E89B79FBA67FDA5A5406E63A8EEA" : "rt-wdf_renderer\/Libs\/rt-wdf_lib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "wdfRenderer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "wdfRenderer\/Builds\/MacOSX\/wdfRenderer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RT-WDF\/rt-wdf_lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27B75C404D44E89B79FBA67FDA5A5406E63A8EEA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/julianstorer\/JUCE.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DEBAC9C6799FD4E8074B3BAF720718E3C3499FA0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/avaneev\/r8brain-free-src.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F73CE94197D7FDA6E4D0E752B0D155719785F90F"
+    }
+  ]
+}

@@ -17,14 +17,14 @@
 
 using namespace juce;
 
-#include "../../../../Libs/r8brain-free-src/CDSPResampler.h"
+#include "../../Libs/r8brain-free-src/CDSPResampler.h"
 
 // Circuits
-#include "../../../../Examples/wdfCCTAx1Tree.hpp"
-#include "../../../../Examples/wdfCCTAx4Tree.hpp"
-#include "../../../../Examples/wdfJTM45Tree.hpp"
-#include "../../../../Examples/wdfSwitchTree.hpp"
-#include "../../../../Examples/wdfTonestackTree.hpp"
+#include "../../Circuits/wdfCCTAx1Tree.hpp"
+#include "../../Circuits/wdfCCTAx4Tree.hpp"
+#include "../../Circuits/wdfJTM45Tree.hpp"
+#include "../../Circuits/wdfSwitchTree.hpp"
+#include "../../Circuits/wdfTonestackTree.hpp"
 
 
 //==============================================================================

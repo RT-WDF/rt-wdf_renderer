@@ -12,8 +12,8 @@
 #define RENDERTHREAD_H_INCLUDED
 
 #include "../JuceLibraryCode/JuceHeader.h"
-#include "../../../../Libs/rt-wdf/rt-wdf.h"
-#include "../../../../Libs/r8brain-free-src/CDSPResampler.h"
+#include "../../Libs/rt-wdf_lib/Libs/rt-wdf/rt-wdf.h"
+#include "../../Libs/r8brain-free-src/CDSPResampler.h"
 
 
 class RenderThread;
