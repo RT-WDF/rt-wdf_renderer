@@ -27,6 +27,12 @@ They will be automatically at the correct revision.
 
 Also, make sure to provide [armadillo](http://arma.sourceforge.net/) and it's dependencies. This can either be a pre-compiled version (`libarmadillo-dev` for linux, `armadillo` with homebrew for MacOS) or built from scratch.
 
+On MacOS, you can build the project on the command line with 
+
+```
+xcodebuild -project wdfRenderer.xcodeproj -alltargets -configuration Release
+```
+
 ## Updating dependencies
 To update one of the git submodules to another revision or change their codebase, `cd` into the desired submodule folder within [Libs](/Libs) and pull/checkout/change it.
 Then, commit your changes into the submodule repository if necessary and return to the main repo. A new file at the location of the submodule should indicate in your `git status` that the submodule has changed. Add and commit that file and you're all done.
