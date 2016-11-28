@@ -4,7 +4,7 @@ This application accompanies the [RT-WDF library](https://github.com/RT-WDF/rt-w
 The repository is divided into three parts:
 
 ## Circuits
-Demo circuits of different complexity are supplied with the renderer as a starting point for your own models. Some of them are explained in great detail in a [DAFx-16 paper](https://github.com/RT-WDF/rt-wdf_lib/Documentation/40-DAFx-16_paper_35-PN.pdf). 
+Demo circuits of different complexity are supplied with the renderer as a starting point for your own models. Some of them are explained in great detail in a [DAFx-16 paper](https://github.com/RT-WDF/rt-wdf_lib/tree/master/Documentation/40-DAFx-16_paper_35-PN.pdf). 
 
 ## Libs
 This folder hosts the [JUCE](https://github.com/julianstorer/JUCE) audio/gui framework, the sample rate conversion library [r8brain-free](https://github.com/avaneev/r8brain-free-src) and the [RT-WDF library](https://github.com/RT-WDF/rt-wdf_lib) as git submodules.
