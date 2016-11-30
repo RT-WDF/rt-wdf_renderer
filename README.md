@@ -15,7 +15,7 @@ This folder hosts the [JUCE](https://github.com/julianstorer/JUCE) audio/gui fra
 ## wdfRenderer
 The wdfRenderer is an offline audio renderer which processes .wav files through WDF trees and writes an output file rtwdf.wav into your home directory. It is a cross-platform standalone app based on [JUCE](https://github.com/julianstorer/JUCE).
     
-## Dependencies
+# Dependencies
 wdfRenderer depends on [JUCE](https://github.com/julianstorer/JUCE), [r8brain-free](https://github.com/avaneev/r8brain-free-src), the [RT-WDF library](https://github.com/RT-WDF/rt-wdf_lib) and [armadillo](http://arma.sourceforge.net/).
 
 # Getting started
