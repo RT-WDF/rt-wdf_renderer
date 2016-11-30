@@ -8,7 +8,7 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>com.rtwdff.wdfRenderer</string>
+    <string>com.rtwdf.wdfRenderer</string>
     <key>CFBundleName</key>
     <string>wdfRenderer</string>
     <key>CFBundlePackageType</key>
