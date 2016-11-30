@@ -1,6 +1,9 @@
 # wdfRenderer
 This application accompanies the [RT-WDF library](https://github.com/RT-WDF/rt-wdf_lib) by hosting RT-WDF circuit trees, creating their user interface and processing audio through them.
 
+![wdfRenderer Application](Doc/wdfRenderer.png)
+
+
 The repository is divided into three parts:
 
 ## Circuits
